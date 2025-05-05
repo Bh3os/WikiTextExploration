@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This report summarizes the implementation and evaluation of N-gram and RNN-based language models on the WikiText dataset. We explore different model architectures, training processes, and address challenges associated with language modeling.
+This README file summarizes the implementation and evaluation of N-gram and RNN-based language models on the WikiText dataset. We explore different model architectures, training processes, and address challenges associated with language modeling.
 
 ## Approach
 
