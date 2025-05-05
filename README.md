@@ -64,7 +64,7 @@ The following table shows the perplexity results for the different models:
 
 ### Visualizations
 
-TensorBoard was used to visualize the training and validation loss and perplexity for the RNN and LSTM models. However, the visualizations are not included in this report.
+TensorBoard was used to visualize the training and validation loss and perplexity for the RNN and LSTM models. However, the visualizations are not included in this repo.
 
 ## Challenges Faced
 
