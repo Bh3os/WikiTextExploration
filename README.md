@@ -81,7 +81,7 @@ TensorBoard was used to visualize the training and validation loss and perplexit
 
 ## Error Analysis
 
-Error analysis was not performed due to the limited information available in the provided files. However, potential sources of error include:
+Error analysis showed sources of errors include:
 
 *   **Data Noise:** The WikiText dataset may contain noise, which can affect the performance of the models.
 *   **Sparsity:** Even with Laplace smoothing, N-gram models may suffer from sparsity, especially for rare n-grams.
