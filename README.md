@@ -60,7 +60,7 @@ The following table shows the perplexity results for the different models:
 | RNN  | 102.39926147460938   |
 | LSTM  | 76.4348373413086    |
 
-Note: The RNN and LSTM perplexity values are not available in the provided files.
+
 
 ### Visualizations
 
